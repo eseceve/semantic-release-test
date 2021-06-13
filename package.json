@@ -6,7 +6,9 @@
   "repository": "git@github.com:eseceve/semantic-release-test.git",
   "author": "Sebas Contreras <eseceve@gmail.com>",
   "license": "MIT",
-  "private": false,
+  "publishConfig": {
+    "access": "public"
+  },
   "devDependencies": {
     "@semantic-release/changelog": "^5.0.1",
     "@semantic-release/git": "^9.0.0",
