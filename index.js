@@ -1,1 +1,1 @@
-function foo() { return '1.1.0' }
+function foo() { return '1.1.1' }
