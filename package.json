@@ -1,6 +1,6 @@
 {
   "name": "@eseceve/semantic-release-test",
-  "version": "1.1.0-rc.1",
+  "version": "1.1.0-rc.2",
   "description": "Package to learn how to configure semantic-release",
   "main": "index.js",
   "repository": "git@github.com:eseceve/semantic-release-test.git",
