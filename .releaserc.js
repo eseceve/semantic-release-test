@@ -1,17 +1,26 @@
 module.exports = {
-  branches: [{
-    name: "main"
-  }, {
-    name: "release",
-    channel: "rc",
-    prerelease: "rc"
-  }],
+  branches: [
+    {
+      name: "main",
+    },
+    {
+      name: "release",
+      channel: "rc",
+      prerelease: "rc",
+    },
+  ],
   plugins: [
     "@semantic-release/commit-analyzer",
     "@semantic-release/release-notes-generator",
     "@semantic-release/changelog",
     "@semantic-release/npm",
     "@semantic-release/git",
-    "@semantic-release/github"
+    "@semantic-release/github",
+    [
+      "@saithodev/semantic-release-backmerge",
+      {
+        branchName: "release",
+      },
+    ],
   ],
 };
