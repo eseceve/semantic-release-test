@@ -1,3 +1,10 @@
+# [1.1.0-rc.3](https://github.com/eseceve/semantic-release-test/compare/v1.1.0-rc.2...v1.1.0-rc.3) (2021-06-13)
+
+
+### Features
+
+* **App:** config @saithodev/semantic-release-backmerge ([179c4d3](https://github.com/eseceve/semantic-release-test/commit/179c4d39510c82369194ad88c7192373a7566a90))
+
 # [1.1.0-rc.2](https://github.com/eseceve/semantic-release-test/compare/v1.1.0-rc.1...v1.1.0-rc.2) (2021-06-13)
 
 
