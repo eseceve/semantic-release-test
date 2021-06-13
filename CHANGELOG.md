@@ -1,3 +1,10 @@
+# [1.1.0-rc.1](https://github.com/eseceve/semantic-release-test/compare/v1.0.1...v1.1.0-rc.1) (2021-06-13)
+
+
+### Features
+
+* **App:** trigger an rc release ([ec6b864](https://github.com/eseceve/semantic-release-test/commit/ec6b8649a930c83d574b5ee57aaf8c5d59eea445))
+
 ## [1.0.1](https://github.com/eseceve/semantic-release-test/compare/v1.0.0...v1.0.1) (2021-06-13)
 
 
