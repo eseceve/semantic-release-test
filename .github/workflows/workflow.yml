@@ -1,5 +1,9 @@
 name: Release
-on: push
+on:
+  push
+    branches:
+      - main
+      - release
 jobs:
   release:
     runs-on: ubuntu-latest
@@ -8,9 +12,9 @@ jobs:
       - uses: actions/setup-node@v1
         with:
           node-version: '12'
-      - name: install
+      - name: Install dependencies
         run: yarn install --frozen-lockfile
-      - name: semantic-release
+      - name: Publish a semantic release
         env:
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
