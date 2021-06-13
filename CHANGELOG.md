@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/eseceve/semantic-release-test/compare/v1.1.0...v1.2.0) (2021-06-13)
+
+
+### Features
+
+* **App:** add action to trigger deploy ([525c616](https://github.com/eseceve/semantic-release-test/commit/525c616cd8d90f465846fc8fce0b612c149efeaa))
+
 # [1.2.0-rc.1](https://github.com/eseceve/semantic-release-test/compare/v1.1.0...v1.2.0-rc.1) (2021-06-13)
 
 
