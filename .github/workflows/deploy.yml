@@ -6,7 +6,7 @@ jobs:
     steps:
       - uses: tukasz/direct-merge-action@master
         with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
           source-branch: release
           target-branch: main
           commit-message: "Merge release into main to trigger a new release"
