@@ -9,3 +9,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           source-branch: release
           target-branch: main
+          commit-message: "Merge release into main to trigger a new release"
