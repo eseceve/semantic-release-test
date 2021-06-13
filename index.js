@@ -1,1 +1,1 @@
-function foo() { return 'fo' }
+function foo() { return 'foo' }
