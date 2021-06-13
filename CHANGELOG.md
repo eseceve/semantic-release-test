@@ -1,3 +1,16 @@
+# [1.1.0](https://github.com/eseceve/semantic-release-test/compare/v1.0.1...v1.1.0) (2021-06-13)
+
+
+### Bug Fixes
+
+* **App:** trigger a release using github plugin ([de9faae](https://github.com/eseceve/semantic-release-test/commit/de9faaec895fe25391ea5640cbdb2ce63e1cd0a5))
+
+
+### Features
+
+* **App:** config @saithodev/semantic-release-backmerge ([b70bda3](https://github.com/eseceve/semantic-release-test/commit/b70bda340a0c001c6c6513472e1da5a372bebdeb))
+* **App:** trigger an rc release ([d08028c](https://github.com/eseceve/semantic-release-test/commit/d08028c401c8f3a25da56cdef30dcfc64a067c81))
+
 # [1.1.0-rc.3](https://github.com/eseceve/semantic-release-test/compare/v1.1.0-rc.2...v1.1.0-rc.3) (2021-06-13)
 
 
