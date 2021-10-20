@@ -1,3 +1,10 @@
+# [1.4.0-release-v1.2](https://github.com/eseceve/semantic-release-test/compare/v1.4.0-release-v1.1...v1.4.0-release-v1.2) (2021-10-20)
+
+
+### Bug Fixes
+
+* **App:** bla bla ([304e387](https://github.com/eseceve/semantic-release-test/commit/304e387a84b34628bc106a10e662f0e2a51b54f3))
+
 # [1.4.0-release-v1.1](https://github.com/eseceve/semantic-release-test/compare/v1.3.0...v1.4.0-release-v1.1) (2021-10-20)
 
 

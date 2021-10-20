@@ -1,1 +1,1 @@
-function foo() { return 'foo & bar & baz' }
+function foo() { return 'foo & bar' }
