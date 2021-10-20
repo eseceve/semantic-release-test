@@ -1,3 +1,15 @@
+# [1.5.0](https://github.com/eseceve/semantic-release-test/compare/v1.4.0...v1.5.0) (2021-10-20)
+
+
+### Bug Fixes
+
+* **App:** bla bla ([68e5439](https://github.com/eseceve/semantic-release-test/commit/68e543942287ee109877b02ebf3b1fd1f99591ed))
+
+
+### Features
+
+* **App:** bla bla ([caec690](https://github.com/eseceve/semantic-release-test/commit/caec690098673efa7d53c5cebadc52f1107aa42b))
+
 # [1.4.0](https://github.com/eseceve/semantic-release-test/compare/v1.3.0...v1.4.0) (2021-10-20)
 
 
