@@ -1,3 +1,10 @@
+# [1.3.0-release-v1.1](https://github.com/eseceve/semantic-release-test/compare/v1.2.0...v1.3.0-release-v1.1) (2021-10-20)
+
+
+### Features
+
+* **App:** return baz too ([245d9bc](https://github.com/eseceve/semantic-release-test/commit/245d9bcfc53ab782ed5f871879a1c34d9084e513))
+
 # [1.2.0](https://github.com/eseceve/semantic-release-test/compare/v1.1.0...v1.2.0) (2021-06-13)
 
 
