@@ -5,12 +5,12 @@ module.exports = {
     {
       name: "release",
       channel: "rc",
-      prerelease: "rc",
+      prerelease: true,
     },
     {
       name: "release-v1",
       channel: "rc",
-      prerelease: "rc",
+      prerelease: true,
     },
   ],
   plugins: [
