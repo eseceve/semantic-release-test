@@ -1,0 +1,12 @@
+name: Deploy v1
+on: workflow_dispatch
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: tukasz/direct-merge-action@master
+        with:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          source-branch: release-v1
+          target-branch: v1
+          commit-message: "Merge release-v1 into v1 to trigger a new release of v1"

@@ -1,12 +1,16 @@
 module.exports = {
   branches: [
-    {
-      name: "main",
-    },
+    { name: "main" },
+    { name: "v1" },
     {
       name: "release",
       channel: "rc",
-      prerelease: "rc",
+      prerelease: true,
+    },
+    {
+      name: "release-v1",
+      channel: "rc",
+      prerelease: true,
     },
   ],
   plugins: [
@@ -19,7 +23,7 @@ module.exports = {
     [
       "@saithodev/semantic-release-backmerge",
       {
-        branchName: "release",
+        branchName: "release-v1",
       },
     ],
   ],
