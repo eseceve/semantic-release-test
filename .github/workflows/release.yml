@@ -6,6 +6,7 @@ on:
       - release
       - v1
       - release-v1
+      - 1.x
 jobs:
   release:
     runs-on: ubuntu-latest
