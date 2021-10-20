@@ -1,3 +1,13 @@
+# [2.0.0-rc.1](https://github.com/eseceve/semantic-release-test/compare/v1.2.0...v2.0.0-rc.1) (2021-10-20)
+
+
+* refactor(App)!: force a breaking change ([5d55a79](https://github.com/eseceve/semantic-release-test/commit/5d55a79bd5c3d41bcef9ad2982c345ccc07bc697))
+
+
+### BREAKING CHANGES
+
+* this is the message of the breaking change
+
 # [1.2.0](https://github.com/eseceve/semantic-release-test/compare/v1.1.0...v1.2.0) (2021-06-13)
 
 
