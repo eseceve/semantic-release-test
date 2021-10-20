@@ -1,3 +1,15 @@
+# [1.3.0](https://github.com/eseceve/semantic-release-test/compare/v1.2.0...v1.3.0) (2021-10-20)
+
+
+### Bug Fixes
+
+* **App:** don't return baz ([2a858f4](https://github.com/eseceve/semantic-release-test/commit/2a858f4a96e5cb2ae8b6984efeb7552d8c254c5d))
+
+
+### Features
+
+* **App:** return baz too ([245d9bc](https://github.com/eseceve/semantic-release-test/commit/245d9bcfc53ab782ed5f871879a1c34d9084e513))
+
 # [1.3.0-release-v1.2](https://github.com/eseceve/semantic-release-test/compare/v1.3.0-release-v1.1...v1.3.0-release-v1.2) (2021-10-20)
 
 
