@@ -1,7 +1,7 @@
 module.exports = {
   branches: [
     { name: "main" },
-    { name: "v1", channel: "1.x", range: "1.x" },
+    { name: "v+([0-9])", channel: "${name.replace(/v/, '')}", range: "${name.replace(/v/, '')}.x" },
     { name: "release-v1", channel: "rc", prerelease: "rc" },
   ],
   plugins: [
