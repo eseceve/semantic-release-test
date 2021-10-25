@@ -1,3 +1,10 @@
+# [1.7.0-release-v1-rc.1](https://github.com/eseceve/semantic-release-test/compare/v1.6.0...v1.7.0-release-v1-rc.1) (2021-10-25)
+
+
+### Features
+
+* **App:** bla bla ([78cb785](https://github.com/eseceve/semantic-release-test/commit/78cb78535d98f3bf2177bb319dde99acdefc8ef7))
+
 # [1.6.0](https://github.com/eseceve/semantic-release-test/compare/v1.5.3...v1.6.0) (2021-10-25)
 
 
