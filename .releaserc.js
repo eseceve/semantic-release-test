@@ -1,8 +1,7 @@
 module.exports = {
   branches: [
-    "+([0-9])?(.{+([0-9]),x}).x",
-    "v+([0-9])",
     { name: "main" },
+    { name: "v1", channel: "1.x", range: "1.x" },
     { name: "release-v1", channel: "rc", prerelease: "rc" },
   ],
   plugins: [
