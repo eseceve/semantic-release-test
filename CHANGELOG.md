@@ -1,17 +1,3 @@
-## [1.7.1](https://github.com/eseceve/semantic-release-test/compare/v1.7.0...v1.7.1) (2021-10-26)
-
-
-### Bug Fixes
-
-* **BackMerge:** use the right variables in template ([e30015a](https://github.com/eseceve/semantic-release-test/commit/e30015a872f71132da3287a33e22fbdea24c1ca0))
-
-# [1.7.0](https://github.com/eseceve/semantic-release-test/compare/v1.6.0...v1.7.0) (2021-10-26)
-
-
-### Features
-
-* **BackMerge:** use dinamyc branch name ([8b808a8](https://github.com/eseceve/semantic-release-test/commit/8b808a8c5020781c508cd8693af6a4ec5f81db7f))
-
 # [1.6.0](https://github.com/eseceve/semantic-release-test/compare/v1.5.3...v1.6.0) (2021-10-25)
 
 
