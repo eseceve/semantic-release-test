@@ -1,3 +1,10 @@
+# [1.7.0-v1rc.2](https://github.com/eseceve/semantic-release-test/compare/v1.7.0-v1rc.1...v1.7.0-v1rc.2) (2021-10-26)
+
+
+### Bug Fixes
+
+* **BackMerge:** support release-v* branches ([25ae779](https://github.com/eseceve/semantic-release-test/commit/25ae779a823384370ebf4178cf9876c82964c3c2))
+
 # [1.7.0-v1rc.1](https://github.com/eseceve/semantic-release-test/compare/v1.6.0...v1.7.0-v1rc.1) (2021-10-26)
 
 
