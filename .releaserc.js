@@ -1,9 +1,19 @@
 module.exports = {
   branches: [
-    '+([0-9])?(.{+([0-9]),x}).x',
     { name: "main" },
-    { name: "release", channel: "rc", prerelease: true, },
-    { name: "release-v1", channel: "rc", prerelease: true, },
+    {
+      name: "v+([0-9])",
+      channel: "${name.replace(/v/, '')}",
+      range: "${name.replace(/v/, '')}.x",
+      type: "maintenance",
+    },
+    { name: "release", channel: "rc", prerelease: "rc" },
+    {
+      name: "release-v+([0-9])",
+      channel: "${name.replace(/release-/, '')}rc",
+      prerelease: "${name.replace(/release-/, '')}rc",
+      type: "maintenance",
+    },
   ],
   plugins: [
     "@semantic-release/commit-analyzer",
@@ -15,7 +25,8 @@ module.exports = {
     [
       "@saithodev/semantic-release-backmerge",
       {
-        branchName: "release",
+        branchName:
+          "${branch.name === 'main' ? 'release' : 'release-' + branch.name}",
       },
     ],
   ],
