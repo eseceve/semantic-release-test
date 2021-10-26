@@ -5,6 +5,7 @@ module.exports = {
       name: "v+([0-9])",
       channel: "${name.replace(/v/, '')}",
       range: "${name.replace(/v/, '')}.x",
+      type: "maintenance",
     },
     { name: "release", channel: "rc", prerelease: "rc" },
     {
@@ -24,7 +25,8 @@ module.exports = {
     [
       "@saithodev/semantic-release-backmerge",
       {
-        branchName: "${branch.name === 'main' ? 'release' : 'release-' + branch.name}",
+        branchName:
+          "${branch.name === 'main' ? 'release' : branch.name.includes('release') ? branch.name : 'release-' + branch.name}",
       },
     ],
   ],
