@@ -1,3 +1,31 @@
+# [2.2.0-rc.4](https://github.com/eseceve/semantic-release-test/compare/v2.2.0-rc.3...v2.2.0-rc.4) (2021-10-26)
+
+
+### Bug Fixes
+
+* **BackMerge:** fix template ([8e4345a](https://github.com/eseceve/semantic-release-test/commit/8e4345ad23a201da2bad8faf7ff68f181bf15244))
+
+# [2.2.0-rc.3](https://github.com/eseceve/semantic-release-test/compare/v2.2.0-rc.2...v2.2.0-rc.3) (2021-10-26)
+
+
+### Bug Fixes
+
+* **BackMerge:** fix regex in template ([ea9b274](https://github.com/eseceve/semantic-release-test/commit/ea9b274e90af7c47aef54fca26f281811b337789))
+
+# [2.2.0-rc.2](https://github.com/eseceve/semantic-release-test/compare/v2.2.0-rc.1...v2.2.0-rc.2) (2021-10-26)
+
+
+### Bug Fixes
+
+* **BackMerge:** improve template ([41e97c8](https://github.com/eseceve/semantic-release-test/commit/41e97c8f2d4bff77f89311d3ed7a144b768d17c1))
+
+# [2.2.0-rc.1](https://github.com/eseceve/semantic-release-test/compare/v2.1.0...v2.2.0-rc.1) (2021-10-26)
+
+
+### Features
+
+* **BackMerge:** use dinamyc branch name ([2a5a93c](https://github.com/eseceve/semantic-release-test/commit/2a5a93cd116c2768685d41d4d7c60ab530657e1d))
+
 # [2.1.0](https://github.com/eseceve/semantic-release-test/compare/v2.0.0...v2.1.0) (2021-10-25)
 
 
