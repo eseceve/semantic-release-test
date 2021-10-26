@@ -1,3 +1,10 @@
+# [2.2.0-rc.1](https://github.com/eseceve/semantic-release-test/compare/v2.1.0...v2.2.0-rc.1) (2021-10-26)
+
+
+### Features
+
+* **BackMerge:** use dinamyc branch name ([2a5a93c](https://github.com/eseceve/semantic-release-test/commit/2a5a93cd116c2768685d41d4d7c60ab530657e1d))
+
 # [2.1.0](https://github.com/eseceve/semantic-release-test/compare/v2.0.0...v2.1.0) (2021-10-25)
 
 
