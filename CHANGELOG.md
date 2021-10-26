@@ -1,3 +1,10 @@
+# [1.9.0](https://github.com/eseceve/semantic-release-test/compare/v1.8.0...v1.9.0) (2021-10-26)
+
+
+### Features
+
+* **release:** new dist-tags ([55b27c0](https://github.com/eseceve/semantic-release-test/commit/55b27c07177d4ff0f8b76312556102f9847ac864))
+
 # [1.9.0-release-v1.rc.1](https://github.com/eseceve/semantic-release-test/compare/v1.8.0...v1.9.0-release-v1.rc.1) (2021-10-26)
 
 
