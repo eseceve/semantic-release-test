@@ -24,7 +24,7 @@ module.exports = {
     [
       "@saithodev/semantic-release-backmerge",
       {
-        branchName: "release-v1",
+        branchName: "${name === 'main' ? 'release' : 'release-' + name}",
       },
     ],
   ],
