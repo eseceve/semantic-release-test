@@ -1,3 +1,16 @@
+# [1.8.0](https://github.com/eseceve/semantic-release-test/compare/v1.7.1...v1.8.0) (2021-10-26)
+
+
+### Bug Fixes
+
+* **BackMerge:** support release-v* branches ([b938113](https://github.com/eseceve/semantic-release-test/commit/b93811312a40b243cee867da1669cacfe208c3dc))
+
+
+### Features
+
+* **App:** bla bla ([141de03](https://github.com/eseceve/semantic-release-test/commit/141de03af17800283153ca44e91b0e5e1d399096))
+* **App:** bla bla ([a041943](https://github.com/eseceve/semantic-release-test/commit/a0419434e9cad0c5f511f8259898e7c6b5e88a21))
+
 # [1.7.0-v1rc.2](https://github.com/eseceve/semantic-release-test/compare/v1.7.0-v1rc.1...v1.7.0-v1rc.2) (2021-10-26)
 
 
