@@ -1,3 +1,10 @@
+# [2.2.0-rc.3](https://github.com/eseceve/semantic-release-test/compare/v2.2.0-rc.2...v2.2.0-rc.3) (2021-10-26)
+
+
+### Bug Fixes
+
+* **BackMerge:** fix regex in template ([ea9b274](https://github.com/eseceve/semantic-release-test/commit/ea9b274e90af7c47aef54fca26f281811b337789))
+
 # [2.2.0-rc.2](https://github.com/eseceve/semantic-release-test/compare/v2.2.0-rc.1...v2.2.0-rc.2) (2021-10-26)
 
 
