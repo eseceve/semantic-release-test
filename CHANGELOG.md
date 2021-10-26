@@ -1,3 +1,10 @@
+# [2.2.0-rc.2](https://github.com/eseceve/semantic-release-test/compare/v2.2.0-rc.1...v2.2.0-rc.2) (2021-10-26)
+
+
+### Bug Fixes
+
+* **BackMerge:** improve template ([41e97c8](https://github.com/eseceve/semantic-release-test/commit/41e97c8f2d4bff77f89311d3ed7a144b768d17c1))
+
 # [2.2.0-rc.1](https://github.com/eseceve/semantic-release-test/compare/v2.1.0...v2.2.0-rc.1) (2021-10-26)
 
 
